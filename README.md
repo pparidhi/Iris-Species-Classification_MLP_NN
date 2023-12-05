@@ -14,6 +14,16 @@ The dataset is structured as follows:
 - Petal Width (in Cm)
 - Species (target variable: setosa, versicolor, virginica)
 
+## Dependencies
+
+- Python 3.x
+- NumPy
+- Pandas
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- TensorFlow (for MLP NN)
+
 ## Methodology
 
 1. **Classifier:** MLP NN
